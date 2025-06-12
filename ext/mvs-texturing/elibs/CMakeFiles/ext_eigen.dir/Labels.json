@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_eigen"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_eigen.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_eigen-complete.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/ext_eigen-build.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/ext_eigen-configure.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/ext_eigen-download.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/ext_eigen-install.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/ext_eigen-mkdir.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/ext_eigen-patch.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/ext_eigen-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_eigen"
+		],
+		"name" : "ext_eigen"
+	}
+}

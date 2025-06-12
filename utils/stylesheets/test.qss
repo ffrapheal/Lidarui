@@ -1,0 +1,230 @@
+QTabWidget {
+	background-color: rgba( 28, 71, 73, 100);
+}
+
+QWidget#meshpanel {
+	background-color: rgba( 28, 71, 73, 90%);
+}
+
+QWidget#colorpanel {
+	background-color: rgba( 28, 71, 73, 90%);
+}
+
+QWidget#pointpanel {
+	background-color: rgba( 28, 71, 73, 90%);
+}
+
+QTabWidget::pane {
+    background-color: rgba(0, 100, 100, 0); /* 示例：半透明深青色 (R,G,B,Alpha) */
+    border: 0px solid rgba(0, 120, 120, 220); /* 可选：一个稍微亮一点或更不透明的边框 */
+    border-top: none; /* 通常pane的上边框由TabBar覆盖或不需要 */
+}
+
+QLabel#MeshPath{
+	color: rgba( 255, 255, 255, 100% );
+    font-weight: bold;
+	margin:0px;
+	font-size: 21px;
+}
+
+QLabel#label_currentmesh{
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QLabel#label_meshgenerate{
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QLabel#label_mvstexturing{
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QLabel#label_optimize{
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QLabel#label_showmeshpose{
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QLabel#label_showpointpose{
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QLabel#label_currentpoint{
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QLabel#RootLabel{
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QLabel {
+	font-family: "Microsoft YaHei";
+    font-size: 27px;
+	color: rgba( 200, 200, 200, 255 );
+	margin: 10px;
+}
+
+QPushButton{
+	font-family: "Microsoft YaHei";
+    font-size: 27px;
+	border-style: solid;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: transparent;
+	border-width: 2px;
+	border-radius: 10px;
+	color: #a9b7c6;
+	padding: 10px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+
+QPushButton::default{
+	border-style: inset;
+
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: #04b97f;
+	border-width: 1px;
+	color: #a9b7c6;
+	padding: 10px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+QPushButton:hover{
+	border-style: solid;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: #37efba;
+	border-bottom-width: 1px;
+	border-style: solid;
+	color: #FFFFFF;
+	padding-bottom: 10px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+QPushButton:pressed{
+	border-style: solid;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: #37efba;
+	border-bottom-width: 2px;
+	border-style: solid;
+	color: #37efba;
+	padding-bottom: 10px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+QPushButton:disabled{
+	border-style: solid;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: #808086;
+	border-bottom-width: 2px;
+	border-style: solid;
+	color: #808086;
+	padding-bottom: 10px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+
+QTabBar::tab {
+	background-color: rgba( 10, 100, 100, 100% );
+	color: #a9b7c6;
+    border: 1px solid #444;   /* 边框 */
+    padding: 8px 16px;        /* 内边距 */
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    margin-right: 5px;        /* 标签间距 */
+}
+
+QTabBar::tab:selected {
+	background-color: rgba( 10, 100, 100, 100% );
+    border-bottom: 2px solid #04B97F; /* 底部高亮线 */
+}
+
+/* 悬停时的标签页 */
+QTabBar::tab:hover {
+	color: #FFFFFF;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+
+QLineEdit {
+	color: rgba( 200, 200, 200, 100% );	
+	background-color: rgba( 10, 100, 100, 100% );
+	border: 1px solid #CCCCCC;  /* 边框 */
+	border-radius: 4px;         /* 圆角 */
+	padding: 5px;               /* 内边距 */
+}
+
+QSpinBox {
+	font-family: "Microsoft YaHei";
+    font-size: 27px;
+	color: rgba( 200, 200, 200, 100% );	
+	background-color: rgba( 10, 100, 100, 100% );
+}
+
+QSpinBox::disabled{
+	color: #808086;
+}
+
+QCheckBox {
+    font-family: "Microsoft YaHei";
+    font-size: 27px;
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+
+QCheckBox::indicator {
+    /* 复选框指示器样式 */
+    width: 25px;
+    height: 25px;
+}
+
+QComboBox {
+    font-family: "Microsoft YaHei";
+    padding: 0px 10px; 
+    border-radius: 5px;
+    color: rgba( 200, 200, 200, 100% );	
+	background-color: rgba( 10, 100, 100, 100% );
+	height: 45px;
+}
+
+/* 您原有的 QAbstractItemView 样式保持，确保它有自己的背景色 */
+QComboBox QAbstractItemView {
+    font-family: "Microsoft YaHei";
+    color: rgba( 200, 200, 200, 100% );
+	border-radius: 5px;
+    background-color: rgba( 10, 100, 100, 100% ); /* 视图的背景色，这个应该成为可见的背景 */
+}
+
+QComboBox::drop-down{
+    border-radius: 5px;
+}
+
+QComboBox QAbstractItemView::item {
+    height: 45px;
+}
+
+QComboBox::disabled{
+    color: #808086;
+}

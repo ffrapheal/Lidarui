@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/tmp/ext_mapmap-gitclone.cmake
+source_dir=/home/zzz/code/mvs-texturing/elibs/mapmap
+work_dir=/home/zzz/code/mvs-texturing/elibs
+repository=https://github.com/dthuerck/mapmap_cpu.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=
+      

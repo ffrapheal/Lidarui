@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_rayint"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_rayint.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_rayint-complete.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_rayint/src/ext_rayint-stamp/ext_rayint-build.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_rayint/src/ext_rayint-stamp/ext_rayint-configure.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_rayint/src/ext_rayint-stamp/ext_rayint-download.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_rayint/src/ext_rayint-stamp/ext_rayint-install.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_rayint/src/ext_rayint-stamp/ext_rayint-mkdir.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_rayint/src/ext_rayint-stamp/ext_rayint-patch.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_rayint/src/ext_rayint-stamp/ext_rayint-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_rayint"
+		],
+		"name" : "ext_rayint"
+	}
+}

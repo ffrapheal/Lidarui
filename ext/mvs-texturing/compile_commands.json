@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/build_adjacency_graph.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/build_adjacency_graph.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/build_adjacency_graph.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/build_adjacency_graph.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/build_obj_model.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/build_obj_model.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/build_obj_model.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/build_obj_model.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/calculate_data_costs.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/calculate_data_costs.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/calculate_data_costs.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/calculate_data_costs.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/generate_debug_embeddings.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/generate_debug_embeddings.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/generate_debug_embeddings.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/generate_debug_embeddings.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/generate_texture_atlases.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/generate_texture_atlases.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/generate_texture_atlases.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/generate_texture_atlases.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/generate_texture_patches.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/generate_texture_patches.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/generate_texture_patches.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/generate_texture_patches.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/generate_texture_views.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/generate_texture_views.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/generate_texture_views.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/generate_texture_views.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/global_seam_leveling.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/global_seam_leveling.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/global_seam_leveling.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/global_seam_leveling.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/histogram.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/histogram.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/histogram.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/histogram.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/local_seam_leveling.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/local_seam_leveling.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/local_seam_leveling.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/local_seam_leveling.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/material_lib.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/material_lib.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/material_lib.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/material_lib.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/obj_model.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/obj_model.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/obj_model.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/obj_model.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/poisson_blending.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/poisson_blending.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/poisson_blending.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/poisson_blending.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/prepare_mesh.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/prepare_mesh.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/prepare_mesh.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/prepare_mesh.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/rectangular_bin.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/rectangular_bin.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/rectangular_bin.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/rectangular_bin.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/seam_leveling.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/seam_leveling.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/seam_leveling.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/seam_leveling.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/texture_atlas.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/texture_atlas.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/texture_atlas.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/texture_atlas.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/texture_patch.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/texture_patch.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/texture_patch.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/texture_patch.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/texture_view.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/texture_view.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/texture_view.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/texture_view.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/timer.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/timer.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/timer.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/timer.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/tri.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/tri.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/tri.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/tri.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/uni_graph.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/uni_graph.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/uni_graph.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/uni_graph.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o libs/tex/CMakeFiles/tex.dir/view_selection.cpp.o -c /home/zzz/code/mvs-texturing/libs/tex/view_selection.cpp",
+  "file": "/home/zzz/code/mvs-texturing/libs/tex/view_selection.cpp",
+  "output": "libs/tex/CMakeFiles/tex.dir/view_selection.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o apps/texrecon/CMakeFiles/texrecon.dir/arguments.cpp.o -c /home/zzz/code/mvs-texturing/apps/texrecon/arguments.cpp",
+  "file": "/home/zzz/code/mvs-texturing/apps/texrecon/arguments.cpp",
+  "output": "apps/texrecon/CMakeFiles/texrecon.dir/arguments.cpp.o"
+},
+{
+  "directory": "/home/zzz/code/mvs-texturing/build",
+  "command": "/usr/bin/g++ -DEIGEN_MPL2_ONLY -I/home/zzz/code/mvs-texturing/libs -isystem /home/zzz/code/mvs-texturing/elibs/rayint/libs -isystem /home/zzz/code/mvs-texturing/elibs/mve/libs -isystem /home/zzz/code/mvs-texturing/elibs/eigen -isystem /home/zzz/code/mvs-texturing/elibs/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/mapmap -isystem /home/zzz/code/mvs-texturing/elibs/mapmap/ext/dset  -fopenmp -march=native -Wall -Wextra -Wundef -pedantic -mfpmath=sse -funroll-loops -g -std=gnu++11 -o apps/texrecon/CMakeFiles/texrecon.dir/texrecon.cpp.o -c /home/zzz/code/mvs-texturing/apps/texrecon/texrecon.cpp",
+  "file": "/home/zzz/code/mvs-texturing/apps/texrecon/texrecon.cpp",
+  "output": "apps/texrecon/CMakeFiles/texrecon.dir/texrecon.cpp.o"
+}
+]

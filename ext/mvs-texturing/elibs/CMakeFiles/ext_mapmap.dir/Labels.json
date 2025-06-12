@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mapmap"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mapmap.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mapmap-complete.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-build.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-configure.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-download.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-install.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-mkdir.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-patch.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_mapmap"
+		],
+		"name" : "ext_mapmap"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mve"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mve.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mve-complete.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/mve/src/ext_mve-stamp/ext_mve-build.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/mve/src/ext_mve-stamp/ext_mve-configure.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/mve/src/ext_mve-stamp/ext_mve-download.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/mve/src/ext_mve-stamp/ext_mve-install.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/mve/src/ext_mve-stamp/ext_mve-mkdir.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/mve/src/ext_mve-stamp/ext_mve-patch.rule"
+		},
+		{
+			"file" : "/home/zzz/code/mvs-texturing/build/elibs/mve/src/ext_mve-stamp/ext_mve-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_mve"
+		],
+		"name" : "ext_mve"
+	}
+}

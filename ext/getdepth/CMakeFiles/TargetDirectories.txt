@@ -1,0 +1,4 @@
+/home/zzz/code/ui/test/getdepth/CMakeFiles/glad.dir
+/home/zzz/code/ui/test/getdepth/CMakeFiles/MyOpenGLProject.dir
+/home/zzz/code/ui/test/getdepth/CMakeFiles/edit_cache.dir
+/home/zzz/code/ui/test/getdepth/CMakeFiles/rebuild_cache.dir

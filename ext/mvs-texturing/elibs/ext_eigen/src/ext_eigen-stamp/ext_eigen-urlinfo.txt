@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/download-ext_eigen.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/verify-ext_eigen.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/zzz/code/mvs-texturing/build/elibs/ext_eigen/src/ext_eigen-stamp/extract-ext_eigen.cmake
+source_dir=/home/zzz/code/mvs-texturing/elibs/eigen
+work_dir=/home/zzz/code/mvs-texturing/elibs
+url(s)=https://gitlab.com/libeigen/eigen/-/archive/3.3.2/eigen-3.3.2.tar.gz
+hash=MD5=02edfeec591ae09848223d622700a10b
+      no_extract=
+

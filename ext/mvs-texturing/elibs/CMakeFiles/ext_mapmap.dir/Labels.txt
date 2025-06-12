@@ -1,0 +1,13 @@
+# Target labels
+ ext_mapmap
+# Source files and their labels
+/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mapmap
+/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mapmap.rule
+/home/zzz/code/mvs-texturing/build/elibs/CMakeFiles/ext_mapmap-complete.rule
+/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-build.rule
+/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-configure.rule
+/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-download.rule
+/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-install.rule
+/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-mkdir.rule
+/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-patch.rule
+/home/zzz/code/mvs-texturing/build/elibs/ext_mapmap/src/ext_mapmap-stamp/ext_mapmap-update.rule

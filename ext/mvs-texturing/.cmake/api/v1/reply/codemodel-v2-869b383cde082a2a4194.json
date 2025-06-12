@@ -1,0 +1,190 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "elibs",
+					"jsonFile" : "directory-elibs-Debug-df021bb91983e24af9c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "elibs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				},
+				{
+					"build" : "libs",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libs-Debug-ec580da4e47c3b0e73da.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs"
+				},
+				{
+					"build" : "libs/tex",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libs.tex-Debug-a23b576ce13d60dec2ee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "libs/tex",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "apps",
+					"childIndexes" : 
+					[
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-apps-Debug-76fddd1453400e648719.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "apps"
+				},
+				{
+					"build" : "apps/texrecon",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-apps.texrecon-Debug-125ca6be5ef85951f0d0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "apps/texrecon",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "Texturing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ext_eigen::@ba85beb51b849ddfd533",
+					"jsonFile" : "target-ext_eigen-Debug-e3c6220a9eb91bbbd86a.json",
+					"name" : "ext_eigen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ext_mapmap::@ba85beb51b849ddfd533",
+					"jsonFile" : "target-ext_mapmap-Debug-e5b57951281c35369a3a.json",
+					"name" : "ext_mapmap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ext_mve::@ba85beb51b849ddfd533",
+					"jsonFile" : "target-ext_mve-Debug-8d738e5865e454beeccf.json",
+					"name" : "ext_mve",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ext_rayint::@ba85beb51b849ddfd533",
+					"jsonFile" : "target-ext_rayint-Debug-67575cec0165d45edf2b.json",
+					"name" : "ext_rayint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "tex::@0857c89aa7f2c598c6ae",
+					"jsonFile" : "target-tex-Debug-c62b16293337a2149130.json",
+					"name" : "tex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "texrecon::@c9197e1a9c9ca110f9fd",
+					"jsonFile" : "target-texrecon-Debug-43f858355cb41d5b1c21.json",
+					"name" : "texrecon",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zzz/code/mvs-texturing/build",
+		"source" : "/home/zzz/code/mvs-texturing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

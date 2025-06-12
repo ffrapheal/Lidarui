@@ -1,0 +1,161 @@
+
+QWidget#control_panel_render {
+	background-color: rgba( 28, 71, 73, 90% );
+}
+
+QWidget#control_panel_scene {
+	background-color: rgba( 28, 71, 73, 90% );
+}
+
+QWidget#render_view {
+    background-color: rgba( 28, 71, 73, 98% );
+}
+
+QLabel {
+	font-family: "Microsoft YaHei";
+    font-size: 27px;
+	color: rgba( 200, 200, 200, 100% );
+	margin: 10px;
+}
+QLabel#scene_control {
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+QLabel#render_control {
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+    font-weight: bold;
+}
+QPushButton#help {
+	color: rgba( 255, 255, 255, 100% );
+	margin: 10px;
+	font-weight: bold;
+}
+
+QRadioButton {
+	font-family: "Microsoft YaHei";
+    font-size: 27px;
+	color: rgba( 200, 200, 200, 100% );
+	text-align: center;
+	margin: 10px;
+}
+QPushButton{
+	font-family: "Microsoft YaHei";
+    font-size: 27px;
+	border-style: solid;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: transparent;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 10px;
+	color: #a9b7c6;
+	padding: 2px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+QPushButton::default{
+	border-style: inset;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: #04b97f;
+	border-width: 1px;
+	color: #a9b7c6;
+	padding: 2px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+QPushButton:hover{
+	border-style: solid;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: #37efba;
+	border-bottom-width: 1px;
+	border-style: solid;
+	color: #FFFFFF;
+	padding-bottom: 2px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+QPushButton:pressed{
+	border-style: solid;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: #37efba;
+	border-bottom-width: 2px;
+	border-style: solid;
+	color: #37efba;
+	padding-bottom: 1px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+QPushButton:disabled{
+	border-style: solid;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: #808086;
+	border-bottom-width: 2px;
+	border-style: solid;
+	color: #808086;
+	padding-bottom: 1px;
+	background-color: rgba( 10, 100, 100, 100% );
+}
+
+
+QRadioButton::indicator {
+	height: 20px;
+	width: 20px;
+	border-style:solid;
+	border-radius:14px;
+	border-width: 4px;
+	border-color: #04b97f;
+	color: #a9b7c6;
+	background-color: #04b97f;
+}
+
+QRadioButton::indicator:!checked {
+	background-color: transparent;
+}
+
+QSlider::groove {
+	height: 5px;
+	background: #04b97f;
+}
+QSlider::handle {
+	background-color: rgba( 200, 200, 200, 100% );
+	width: 20px;
+	margin: -12px 0;
+	border-radius: 10px;
+}
+QSlider::add-page {
+    background: white;
+}
+QSlider::sub-page {
+    background: #04b97f;
+}
+
+QProgressBar {
+	font-family: "Microsoft YaHei";
+    font-size: 27px;
+	text-align: center;
+	color: rgb(240, 240, 240);
+	border-width: 0px; 
+	border-radius: 10px;
+	border-color: rgba( 10, 100, 100, 100% );
+	border-style: inset;
+	background-color:rgba( 10, 100, 100, 100% );
+}
+QProgressBar::chunk {
+	background-color: #04b97f;
+	border-radius: 10px;
+}
+
+
+QDoubleSpinBox {
+	font-family: "Microsoft YaHei";
+    font-size: 27px;
+	color: rgba( 200, 200, 200, 100% );	
+	background-color: rgba( 10, 100, 100, 100% );
+}
