@@ -12,6 +12,7 @@ from core.data_manager import DataManager
 from core.camera_manager import CameraManager
 from core.task_manager import TaskManager
 from core.app_context import app_context
+from .gs_tab import GSTabHandler
 
 class MainWindow(QMainWindow, Ui_MainWindow):
     def __init__(self):
@@ -26,13 +27,16 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.task_manager = TaskManager(self)
         self.visualization_manager = VisualizationManager(self)
         
+
+
         # 设置应用上下文
         app_context.setup(self)
         
         # 初始化Tab处理器
         self.point_tab = PointTabHandler()
         self.mesh_tab = MeshTabHandler()
-        
+        self.gs_tab = GSTabHandler()
+
         # 绑定基本事件
         self.setup_basic_events()
         

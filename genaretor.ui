@@ -73,7 +73,7 @@
        <string notr="true"/>
       </property>
       <property name="currentIndex">
-       <number>0</number>
+       <number>2</number>
       </property>
       <widget class="QWidget" name="tab">
        <attribute name="title">
@@ -815,6 +815,134 @@
        <attribute name="title">
         <string>3D高斯</string>
        </attribute>
+       <layout class="QHBoxLayout" name="horizontalLayout_4" stretch="2,7">
+        <item>
+         <widget class="QWidget" name="widget_1" native="true">
+          <layout class="QVBoxLayout" name="verticalLayout_7">
+           <item>
+            <widget class="QLabel" name="gs_params">
+             <property name="text">
+              <string>生成模型</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_23">
+             <item>
+              <widget class="QLabel" name="label_9">
+               <property name="text">
+                <string>高斯模型：</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QComboBox" name="GSModel">
+               <item>
+                <property name="text">
+                 <string>3DGS</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>2DGS</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_24">
+             <item>
+              <widget class="QLabel" name="label_8">
+               <property name="text">
+                <string>训练数据：</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QComboBox" name="DataType">
+               <item>
+                <property name="text">
+                 <string>图像</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>雷达点云及图像</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_25">
+             <item>
+              <widget class="QPushButton" name="TrainButton">
+               <property name="sizePolicy">
+                <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                 <horstretch>0</horstretch>
+                 <verstretch>0</verstretch>
+                </sizepolicy>
+               </property>
+               <property name="text">
+                <string>开始训练</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <widget class="QLabel" name="label_10">
+             <property name="text">
+              <string>加载模型</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_26">
+             <item>
+              <widget class="QPushButton" name="GSSelectButton">
+               <property name="sizePolicy">
+                <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                 <horstretch>0</horstretch>
+                 <verstretch>0</verstretch>
+                </sizepolicy>
+               </property>
+               <property name="text">
+                <string>选择模型</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <spacer name="verticalSpacer">
+             <property name="orientation">
+              <enum>Qt::Vertical</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>20</width>
+               <height>40</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item>
+         <widget class="QWidget" name="gs_widget" native="true"/>
+        </item>
+       </layout>
       </widget>
      </widget>
     </item>
