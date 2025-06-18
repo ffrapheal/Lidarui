@@ -34,12 +34,12 @@ dependencies:
       - cycler==0.12.1
       - cython==3.0.12
       - dash==3.0.2
-      - diff-gaussian-rasterization==0.0.0
+      # - diff-gaussian-rasterization==0.0.0
       - fastjsonschema==2.21.1
       - filelock==3.16.1
       - flask==3.0.3
-      - fonttools==4.57.0
-      - fused-ssim==0.0.0
+      - fonttools
+      # - fused-ssim==0.0.0
       - glumpy==1.2.1
       - idna==3.10
       - imageio==2.34.1
@@ -116,4 +116,3 @@ dependencies:
       - vdbfusion==0.1.6
       - werkzeug==3.0.6
       - zipp==3.20.2
-prefix: /home/zzz/anaconda3/envs/ui

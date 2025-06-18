@@ -1,0 +1,16 @@
+name: ui
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip:
+      pyqt5
+      open3d
+      vdbfusion
+      opencv-python
+      glumpy
+      PyOpenGL 
+      PyOpenGL_accelerate
+      torch 
+      torchvision 
+      torchaudio
